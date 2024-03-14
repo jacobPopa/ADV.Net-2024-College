@@ -1,0 +1,12 @@
+C:\Users\Jacob Popa\source\repos\jacobPopaLab7-Adv.Net\jacobPopaLab7-Adv.Net\bin\Debug\jacobPopaLab7-Adv.Net.exe.config
+C:\Users\Jacob Popa\source\repos\jacobPopaLab7-Adv.Net\jacobPopaLab7-Adv.Net\bin\Debug\jacobPopaLab7-Adv.Net.exe
+C:\Users\Jacob Popa\source\repos\jacobPopaLab7-Adv.Net\jacobPopaLab7-Adv.Net\bin\Debug\jacobPopaLab7-Adv.Net.pdb
+C:\Users\Jacob Popa\source\repos\jacobPopaLab7-Adv.Net\jacobPopaLab7-Adv.Net\obj\Debug\jacobPopaLab7-Adv.Net.csproj.AssemblyReference.cache
+C:\Users\Jacob Popa\source\repos\jacobPopaLab7-Adv.Net\jacobPopaLab7-Adv.Net\obj\Debug\jacobPopaLab7_Adv.Net.Form1.resources
+C:\Users\Jacob Popa\source\repos\jacobPopaLab7-Adv.Net\jacobPopaLab7-Adv.Net\obj\Debug\jacobPopaLab7_Adv.Net.Properties.Resources.resources
+C:\Users\Jacob Popa\source\repos\jacobPopaLab7-Adv.Net\jacobPopaLab7-Adv.Net\obj\Debug\jacobPopaLab7-Adv.Net.csproj.GenerateResource.cache
+C:\Users\Jacob Popa\source\repos\jacobPopaLab7-Adv.Net\jacobPopaLab7-Adv.Net\obj\Debug\jacobPopaLab7-Adv.Net.csproj.CoreCompileInputs.cache
+C:\Users\Jacob Popa\source\repos\jacobPopaLab7-Adv.Net\jacobPopaLab7-Adv.Net\obj\Debug\jacobPopaLab7-Adv.Net.exe
+C:\Users\Jacob Popa\source\repos\jacobPopaLab7-Adv.Net\jacobPopaLab7-Adv.Net\obj\Debug\jacobPopaLab7-Adv.Net.pdb
+C:\Users\Jacob Popa\source\repos\jacobPopaLab7-Adv.Net\jacobPopaLab7-Adv.Net\bin\Debug\people.mdf
+C:\Users\Jacob Popa\source\repos\jacobPopaLab7-Adv.Net\jacobPopaLab7-Adv.Net\bin\Debug\people_log.ldf
